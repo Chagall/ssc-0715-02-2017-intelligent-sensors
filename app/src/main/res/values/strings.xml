@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Comandos de Voz</string>
+
+    <string name="object_description">Ar Condicionado Split Hi Wall Maxplus - 9000 BTU/h Frio 220v</string>
+    <string name="open_object_manual">Abrir Manual</string>
+    <string name="open_object_history">Abrir Histórico</string>
+</resources>
