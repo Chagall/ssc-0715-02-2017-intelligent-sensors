@@ -4,4 +4,10 @@
     <string name="object_description">Ar Condicionado Split Hi Wall Maxplus - 9000 BTU/h Frio 220v</string>
     <string name="open_object_manual">Abrir Manual</string>
     <string name="open_object_history">Abrir Histórico</string>
+
+
+    <!-- Placeholders -->
+    <string name="line_description_image">Imagem</string>
+    <string name="line_description_action">Ação</string>
+    <string name="line_next_arrow_description">Avançar</string>
 </resources>
